@@ -1,4 +1,10 @@
 body {
-    text-align: center;
     font-family: 'Segoe UI';
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    background-color: gray;
+    border-radius: 13px;
 }
