@@ -4,9 +4,5 @@ body {
 
 h1 {
     display: block;
-    border-left: 30px;
-    border-right: 30px;
     text-align: center;
-    background-color: gray;
-    border-radius: 13px;
 }
